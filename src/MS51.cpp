@@ -1,7 +1,6 @@
 // MS5.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 /* ------------------------------------------------------
-Final project Milestone 51
 Filename: main.cpp
 Version 1.0
 -----------------------------------------------------------
