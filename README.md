@@ -6,7 +6,7 @@ Example C++ Project
 Use the CMakeLists.txt file under src folder for compiling
 
 # Sample output
-
+```
 Aid Management System
 Date: 2022/03/31
 Data file: No file
@@ -107,3 +107,4 @@ readme.md 4/7/2022
 |*2022/11/11
 -----+-------+-------------------------------------+------+------+--------
 -+-----------
+```
